@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "First Post",
+        "content": "This is the first post content.",
+        "author": "John Doe",
+        "date": "2024-08-01",
+        "views": 120,
+        "likes": 10
+    },
+    {
+        "id": 2,
+        "title": "Second Post",
+        "content": "This is the second post content.",
+        "author": "Jane Smith",
+        "date": "2024-08-02",
+        "views": 90,
+        "likes": 5
+    },
+    {
+        "id": 3,
+        "title": "Third Post",
+        "content": "This is the third post content.",
+        "author": "Alice Johnson",
+        "date": "2024-08-03",
+        "views": 150,
+        "likes": 20
+    },
+    {
+        "id": 4,
+        "title": "Fourth Post",
+        "content": "This is the fourth post content.",
+        "author": "Bob Brown",
+        "date": "2024-08-04",
+        "views": 200,
+        "likes": 30
+    },
+    {
+        "id": 5,
+        "title": "Fifth Post",
+        "content": "This is the fifth post content.",
+        "author": "Carol White",
+        "date": "2024-08-05",
+        "views": 80,
+        "likes": 15
+    },
+    {
+        "id": 6,
+        "title": "Sixth Post",
+        "content": "This is the sixth post content.",
+        "author": "David Green",
+        "date": "2024-08-06",
+        "views": 130,
+        "likes": 25
+    },
+    {
+        "id": 7,
+        "title": "Seventh Post",
+        "content": "This is the seventh post content.",
+        "author": "Eva Blue",
+        "date": "2024-08-07",
+        "views": 110,
+        "likes": 18
+    },
+    {
+        "id": 8,
+        "title": "Eighth Post",
+        "content": "This is the eighth post content.",
+        "author": "Frank Black",
+        "date": "2024-08-08",
+        "views": 95,
+        "likes": 12
+    },
+    {
+        "id": 9,
+        "title": "Ninth Post",
+        "content": "This is the ninth post content.",
+        "author": "Grace Yellow",
+        "date": "2024-08-09",
+        "views": 160,
+        "likes": 35
+    },
+    {
+        "id": 10,
+        "title": "Tenth Post",
+        "content": "This is the tenth post content.",
+        "author": "Hank Gray",
+        "date": "2024-08-10",
+        "views": 140,
+        "likes": 22
+    },
+    {
+        "id": 11,
+        "title": "Eleventh Post",
+        "content": "This is the eleventh post content.",
+        "author": "Ivy Violet",
+        "date": "2024-08-11",
+        "views": 75,
+        "likes": 8
+    },
+    {
+        "id": 12,
+        "title": "Twelfth Post",
+        "content": "This is the twelfth post content.",
+        "author": "Jack Orange",
+        "date": "2024-08-12",
+        "views": 210,
+        "likes": 40
+    }
+]
